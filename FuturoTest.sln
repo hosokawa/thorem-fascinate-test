@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{8628EA26-DAFD-4965-B49A-C43680C2A834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDriver", "TestDriver\TestDriver.csproj", "{47E5FD21-BEAD-4119-81A1-6F6CF5BCCD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8628EA26-DAFD-4965-B49A-C43680C2A834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8628EA26-DAFD-4965-B49A-C43680C2A834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8628EA26-DAFD-4965-B49A-C43680C2A834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8628EA26-DAFD-4965-B49A-C43680C2A834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E5FD21-BEAD-4119-81A1-6F6CF5BCCD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E5FD21-BEAD-4119-81A1-6F6CF5BCCD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E5FD21-BEAD-4119-81A1-6F6CF5BCCD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E5FD21-BEAD-4119-81A1-6F6CF5BCCD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
